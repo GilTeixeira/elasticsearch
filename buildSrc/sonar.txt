@@ -1,0 +1,49 @@
+Starting a Gradle Daemon, 1 incompatible and 1 stopped Daemons could not be reused, use --status for details
+> Task :compileJava UP-TO-DATE
+> Task :compileGroovy UP-TO-DATE
+> Task :generateVersionProperties UP-TO-DATE
+> Task :pluginDescriptors UP-TO-DATE
+> Task :processResources UP-TO-DATE
+> Task :classes UP-TO-DATE
+> Task :jar UP-TO-DATE
+> Task :reaper:compileJava UP-TO-DATE
+> Task :reaper:processResources NO-SOURCE
+> Task :reaper:classes UP-TO-DATE
+> Task :reaper:jar UP-TO-DATE
+> Task :pluginUnderTestMetadata UP-TO-DATE
+> Task :compileTestFixturesJava UP-TO-DATE
+> Task :compileTestFixturesGroovy NO-SOURCE
+> Task :processTestFixturesResources NO-SOURCE
+> Task :testFixturesClasses UP-TO-DATE
+> Task :testFixturesJar UP-TO-DATE
+> Task :compileTestJava UP-TO-DATE
+> Task :compileTestGroovy NO-SOURCE
+> Task :processTestResources UP-TO-DATE
+> Task :testClasses UP-TO-DATE
+> Task :test SKIPPED
+> Task :reaper:compileTestJava NO-SOURCE
+> Task :reaper:processTestResources NO-SOURCE
+> Task :reaper:testClasses UP-TO-DATE
+> Task :reaper:test NO-SOURCE
+
+> Task :sonarqube
+File '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/src/test/java/org/elasticsearch/gradle/DistributionDownloadPluginTests.java' is ignored. It is not located in module basedir '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/reaper'.
+File '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/src/test/java/org/elasticsearch/gradle/JdkDownloadPluginTests.java' is ignored. It is not located in module basedir '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/reaper'.
+File '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/src/test/java/org/elasticsearch/gradle/docker/DockerSupportServiceTests.java' is ignored. It is not located in module basedir '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/reaper'.
+File '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/src/test/java/org/elasticsearch/gradle/VersionTests.java' is ignored. It is not located in module basedir '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/reaper'.
+File '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/src/test/java/org/elasticsearch/gradle/BwcVersionsTests.java' is ignored. It is not located in module basedir '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/reaper'.
+File '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/src/test/java/org/elasticsearch/gradle/internal/precommit/ForbiddenPatternsTaskTests.java' is ignored. It is not located in module basedir '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/reaper'.
+File '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/src/test/java/org/elasticsearch/gradle/internal/precommit/DependencyLicensesTaskTests.java' is ignored. It is not located in module basedir '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/reaper'.
+File '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/src/test/java/org/elasticsearch/gradle/internal/precommit/UpdateShasTaskTests.java' is ignored. It is not located in module basedir '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/reaper'.
+File '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/src/test/java/org/elasticsearch/gradle/internal/precommit/FilePermissionsTaskTests.java' is ignored. It is not located in module basedir '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/reaper'.
+File '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/src/test/java/org/elasticsearch/gradle/plugin/PluginBuildPluginTests.java' is ignored. It is not located in module basedir '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/reaper'.
+File '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/src/test/java/org/elasticsearch/gradle/plugin/PluginPropertiesExtensionTests.java' is ignored. It is not located in module basedir '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/reaper'.
+File '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/src/test/java/org/elasticsearch/gradle/ConcatFilesTaskTests.java' is ignored. It is not located in module basedir '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/reaper'.
+File '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/src/test/java/org/elasticsearch/gradle/checkstyle/SnipptLengthCheckTests.java' is ignored. It is not located in module basedir '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/reaper'.
+File '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/src/test/java/org/elasticsearch/gradle/EmptyDirTaskTests.java' is ignored. It is not located in module basedir '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/reaper'.
+File '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/src/test/java/org/elasticsearch/gradle/http/WaitForHttpResourceTests.java' is ignored. It is not located in module basedir '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/reaper'.
+File '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/src/test/java/org/elasticsearch/gradle/doc/SnippetsTaskTests.java' is ignored. It is not located in module basedir '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/reaper'.
+File '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/src/test/java/org/elasticsearch/gradle/doc/RestTestFromSnippetsTaskTests.java' is ignored. It is not located in module basedir '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/reaper'.
+
+BUILD SUCCESSFUL in 29s
+14 actionable tasks: 1 executed, 13 up-to-date
