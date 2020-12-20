@@ -1,25 +1,27 @@
-Starting a Gradle Daemon, 1 incompatible and 1 stopped Daemons could not be reused, use --status for details
-> Task :compileJava UP-TO-DATE
-> Task :compileGroovy UP-TO-DATE
-> Task :generateVersionProperties UP-TO-DATE
-> Task :pluginDescriptors UP-TO-DATE
-> Task :processResources UP-TO-DATE
-> Task :classes UP-TO-DATE
-> Task :jar UP-TO-DATE
-> Task :reaper:compileJava UP-TO-DATE
+
+> Task :compileJava
+
+> Task :compileGroovy
+
+> Task :generateVersionProperties
+> Task :pluginDescriptors
+> Task :processResources
+> Task :classes
+> Task :jar
+> Task :reaper:compileJava
 > Task :reaper:processResources NO-SOURCE
-> Task :reaper:classes UP-TO-DATE
-> Task :reaper:jar UP-TO-DATE
-> Task :pluginUnderTestMetadata UP-TO-DATE
-> Task :compileTestFixturesJava UP-TO-DATE
+> Task :reaper:classes
+> Task :reaper:jar
+> Task :pluginUnderTestMetadata
+> Task :compileTestFixturesJava
 > Task :compileTestFixturesGroovy NO-SOURCE
 > Task :processTestFixturesResources NO-SOURCE
-> Task :testFixturesClasses UP-TO-DATE
-> Task :testFixturesJar UP-TO-DATE
-> Task :compileTestJava UP-TO-DATE
+> Task :testFixturesClasses
+> Task :testFixturesJar
+> Task :compileTestJava
 > Task :compileTestGroovy NO-SOURCE
-> Task :processTestResources UP-TO-DATE
-> Task :testClasses UP-TO-DATE
+> Task :processTestResources
+> Task :testClasses
 > Task :test SKIPPED
 > Task :reaper:compileTestJava NO-SOURCE
 > Task :reaper:processTestResources NO-SOURCE
@@ -45,5 +47,5 @@ File '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/src/test/jav
 File '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/src/test/java/org/elasticsearch/gradle/doc/SnippetsTaskTests.java' is ignored. It is not located in module basedir '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/reaper'.
 File '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/src/test/java/org/elasticsearch/gradle/doc/RestTestFromSnippetsTaskTests.java' is ignored. It is not located in module basedir '/home/gildt/Desktop/feup-diss-val/test/elasticsearch/buildSrc/reaper'.
 
-BUILD SUCCESSFUL in 29s
-14 actionable tasks: 1 executed, 13 up-to-date
+BUILD SUCCESSFUL in 28s
+14 actionable tasks: 14 executed
